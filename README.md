@@ -1,6 +1,6 @@
 # AI Governance Chatbot
 
-I built this chatbot to make it easier to search through hundreds of AI policy documents without having to read them all manually. You can ask it plain English questions and it'll pull relevant answers straight from the source documents.
+I built this chatbot to make it easier to search through hundreds of AI policy documents without having to read them all manually. You can ask questions, and it'll pull relevant answers straight from the source documents.
 
 🔗 **[Live demo](https://ai-governance-chatbot-m5jzvn6eq4jj6n8wntttvs.streamlit.app/)**
 
